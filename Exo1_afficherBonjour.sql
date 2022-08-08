@@ -1,0 +1,5 @@
+BEGIN
+	DBMS_OUTPUT.PUT_LINE('Bonjour PR217');
+END;
+/
+
